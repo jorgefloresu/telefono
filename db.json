@@ -6,18 +6,18 @@
        "telefonos": [
           {
           "idTipoTelefono": "1",
-          "numeroTelefono": "22034532"
+          "numeroTelefono": "22034532",
           "tipoOperacion": "U"
           },
           {
           "idTipoTelefono": "2",
-          "numeroTelefono": "78698034"
+          "numeroTelefono": "78698034",
           "tipoOperacion": "I"
           }
        ]
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "telefono"
   }
 }

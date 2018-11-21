@@ -16,6 +16,23 @@
           "tipoOperacion": "I"
           }
        ]
+    },
+    {
+       "id": "0075985911",
+       "idCliente": "0075985911",
+       "codigoEmpresa": "01",
+       "telefonos": [
+          {
+          "idTipoTelefono": "1",
+          "numeroTelefono": "22165581",
+          "tipoOperacion": "U"
+          },
+          {
+          "idTipoTelefono": "2",
+          "numeroTelefono": "78812143",
+          "tipoOperacion": "I"
+          }
+       ]
     }
   ],
   "profile": {
